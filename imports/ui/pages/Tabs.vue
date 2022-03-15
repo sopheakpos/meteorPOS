@@ -101,7 +101,6 @@ export default {
     showValue(ov) {
       //this.myCateId = ov;
       alert(ov + "");
-      var 
     },
   },
   computed: {
